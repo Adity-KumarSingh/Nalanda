@@ -436,12 +436,7 @@ query {
 | Crypto-JS | Token encryption |
 | CORS | Cross-origin resource sharing |
 
----
-
-##  MongoDB Aggregations
-
-The system uses advanced MongoDB aggregation pipelines for generating reports:
-
+##  Task Requirements Checklist
 ### 1. Most Borrowed Books
 - Groups borrowings by book
 - Counts total borrows and unique users
@@ -458,4 +453,4 @@ The system uses advanced MongoDB aggregation pipelines for generating reports:
 - Aggregates total books and copies
 - Calculates utilization rates
 - Provides genre-wise breakdown
-##  Task Requirements Checklist
+
